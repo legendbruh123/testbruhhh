@@ -1,0 +1,17 @@
+{
+  "name": "naam",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.2",
+    "moment": "^2.26.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
